@@ -10,7 +10,7 @@ So.... the goal is to try and analyze my "malware"
 2. Try and get the source 
 
 
-If you do DM me on twitter and ill transfer the 1st 3 people some DOGE/SHIBA. 
+If you do, DM me on twitter and ill transfer the 1st 3 people some DOGE/SHIBA but youll have to explain to me what you did (: 
 
 
 The "malware" literally does nothing it just hangs so you can get it from memory 
