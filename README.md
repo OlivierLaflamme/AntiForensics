@@ -4,7 +4,7 @@ I was wondering how do you stop your malware from being acquired and analyzed. B
 
 The scene is this: Im an attacker and ive got malware running on a system im 1337 so im performing some magic in my malware to prevent it from being aquired and analyzed. 
 
-So....
+So.... the goal is to try and analyze my "malware"
 
 1. Try to aquire memory 
 2. Try and get the source 
